@@ -7,9 +7,9 @@ Handtrack.js is a library for prototyping real-time hand detection (using boundi
 This is a tutorial on how to train a 'hand detector' with TensorFlow object detection API. This README outlines how to set up everything and train the object detection model locally. You could refer to the following blog post for more detailed description about the steps within.
 
 https://jkjung-avt.github.io/hand-detection-tutorial/
-![image](https://user-images.githubusercontent.com/85755206/127898012-30df1cf5-0727-43db-95b6-e8a4cc6d1034.png)
-![image](https://user-images.githubusercontent.com/85755206/127898045-30f1790d-ec34-471e-b6a2-394376d0e5d8.png)
-![image](https://user-images.githubusercontent.com/85755206/127898061-5e747a82-6b2a-4ae5-8247-13178b8e9ae9.png)
+https://github.com/victordibia/handtracking/blob/master/images/hand1.gif
+https://github.com/victordibia/handtracking/blob/master/images/hand2.gif
+https://github.com/victordibia/handtracking/blob/master/images/hand3.gif
 
 Setup
 Just for reference, the code in this repository has been tested on a desktop PC with:
